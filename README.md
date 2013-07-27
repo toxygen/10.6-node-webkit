@@ -1,6 +1,8 @@
 10.6-node-webkit
 ================
 
+Release 0.6.3
+
 Node-webkit binary for Snow Leopard (10.6)
 
 - default node-webkit is compiled for 10.7 and crashes on 10.6
