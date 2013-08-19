@@ -1,0 +1,4 @@
+[53786:0820/005246:ERROR:process_singleton_mac.cc(237)] readlink(/Users/toxygen/Library/Application Support/node-webkit/SingletonLock) failed: Invalid argument
+[53786:0820/005246:ERROR:process_singleton_mac.cc(237)] readlink(/Users/toxygen/Library/Application Support/node-webkit/SingletonLock) failed: Invalid argument
+[53786:0820/005246:ERROR:process_singleton_mac.cc(261)] Failed to create /Users/toxygen/Library/Application Support/node-webkit/SingletonLock: File exists
+[53786:0820/005246:ERROR:process_singleton_mac.cc(237)] readlink(/Users/toxygen/Library/Application Support/node-webkit/SingletonLock) failed: Invalid argument

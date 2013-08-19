@@ -1,7 +1,7 @@
 10.6-node-webkit
 ================
 
-Release 0.6.3
+Release 0.7.1
 
 Node-webkit binary for Snow Leopard (10.6)
 
