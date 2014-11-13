@@ -50,9 +50,9 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>35.0.1916.113</string>
+	<string>38.0.2125.104</string>
 	<key>CFBundleVersion</key>
-	<string>1916.113</string>
+	<string>2125.104</string>
 	<key>DTSDKBuild</key>
 	<string>10K549</string>
 	<key>DTSDKName</key>
@@ -62,7 +62,7 @@
 	<key>DTXcodeBuild</key>
 	<string>4C199</string>
 	<key>LSFileQuarantineEnabled</key>
-	<true/>
+	<false/>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6.0</string>
 	<key>NSPrincipalClass</key>
@@ -70,7 +70,7 @@
 	<key>NSSupportsAutomaticGraphicsSwitching</key>
 	<true/>
 	<key>SCMRevision</key>
-	<string>270019</string>
+	<string>290379</string>
 	<key>UTExportedTypeDeclarations</key>
 	<array>
 		<dict>
